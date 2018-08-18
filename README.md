@@ -1,13 +1,14 @@
-## About This Project
+# xUnitPostsSamples
+This repository contains sample codes related to a series of posts on my [blog](http://hamidmosalla.com) related to xUnit and unit testing in general. You can find the links to these posts down below.
 
-This project contains samples that show how to use and extend xUnit.net.
+[xUnit Theory: Working With InlineData, MemberData, ClassData](http://hamidmosalla.com/2017/02/25/xunit-theory-working-with-inlinedata-memberdata-classdata/)
 
-To open an issue for this project, please visit the [core xUnit.net project issue tracker](https://github.com/xunit/xunit/issues).
+[Moq: Working With SetupGet, VerifyGet, SetupSet, VerifySet, SetupProperty](http://hamidmosalla.com/2017/08/03/moq-working-with-setupget-verifyget-setupset-verifyset-setupproperty/)
 
-## About xUnit.net
+[Isolation Frameworks: Why FakeItEasy and NSubstitude Are Better Than Moq](http://hamidmosalla.com/2017/09/28/isolation-frameworks-why-fakeiteasy-and-nsubstitude-are-better-than-moq/)
 
-[<img align="right" width="100px" src="https://dotnetfoundation.org/images/logo_big.svg" />](https://dotnetfoundation.org/projects?type=project&q=xunit)
+[Interaction Testing With Mocks Leads To A Less Maintainable Unit Test](http://hamidmosalla.com/2017/11/28/interaction-testing-with-mocks-leads-to-a-less-maintainable-unit-test/)
 
-xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework. Written by the original inventor of NUnit v2, xUnit.net is the latest technology for unit testing C#, F#, VB.NET and other .NET languages. xUnit.net works with ReSharper, CodeRush, TestDriven.NET and Xamarin. It is part of the [.NET Foundation](https://www.dotnetfoundation.org/), and operates under their [code of conduct](http://www.dotnetfoundation.org/code-of-conduct). It is licensed under [Apache 2](https://opensource.org/licenses/Apache-2.0) (an OSI approved license).
+[xUnit: Share an SUT Instance Between Two Class Using Collection](http://hamidmosalla.com/2018/07/31/xunit-share-an-sut-instance-between-two-class-using-collection/)
 
-For project documentation, please visit the [xUnit.net project home](https://xunit.github.io/).
+[Share Expensive Object Between Tests By IClassFixture](http://hamidmosalla.com/2018/07/21/share-expensive-object-between-tests-by-iclassfixture/)
